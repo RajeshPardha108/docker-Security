@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="Alexis Ahmed"
+LABEL maintainer="Rajesh"
 
 # Environment Variables
 ENV HOME /root
